@@ -94,13 +94,6 @@ streamlit run app.py
 
 ---
 
-## Melhorias Futuras
-- Detecção automática de setas e conexões com OpenCV
-- Deploy do app web em nuvem
-- Treinar modelo com novos ícones/customizações
-- Reforço da base de STRIDE para novos componentes
-
----
 
 ## Autor
 Projeto criado por **Rodrigo Ferreira** durante o Hackathon 3IADT — Fase 5
