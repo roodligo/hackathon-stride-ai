@@ -96,9 +96,12 @@ streamlit run app.py
 
 
 ## Autor
+
 Projeto criado por **Rodrigo Ferreira** durante o Hackathon 3IADT — Fase 5
-Apresentação do Projeto: **https://youtu.be/mP9u2hnd3T0?si=D4whe7f5Mylo4AS5**
+
 ---
+Apresentação do Projeto: **https://youtu.be/mP9u2hnd3T0?si=D4whe7f5Mylo4AS5**
+
 
 ## Licença
 MIT License
